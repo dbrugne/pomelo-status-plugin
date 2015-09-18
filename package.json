@@ -12,6 +12,6 @@
   ],
   "dependencies": {
     "redis": "1.x",
-    "pomelo-logger": "dbrugne/pomelo-logger"
+    "pomelo-logger": "latest"
   }
 }
