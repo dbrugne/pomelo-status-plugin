@@ -12,6 +12,6 @@
   ],
   "dependencies": {
     "redis": "1.x",
-    "pomelo-logger": "latest"
+    "pomelo-logger": "0.1.7"
   }
 }
